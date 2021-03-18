@@ -1,0 +1,51 @@
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.header-logo__a {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header-logo__title {
+  margin-right: 15px;
+  font-weight: 800;
+}
+
+.header-logo__divder {
+  font-weight: 800;
+  width: 2px;
+  height: 40px;
+  background-color: white;
+  margin-right: 15px;
+}
+
+.header-logo__SF {
+  font-weight: 800;
+  margin-left: 5px;
+}
+
+.header-nav__ul {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 800;
+  color: white;
+}
+
+.header-nav__li {
+  margin-right: 30px;
+}
+
+.header-nav__li:last-child {
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+
+.header-nav__li a:hover {
+  border-bottom: 2px solid white;
+  padding-bottom: 2px;
+}

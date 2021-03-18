@@ -1,0 +1,30 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  padding: 45px 40px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.footer-container__box {
+  display: block;
+  text-align: center;
+  width: 33%;
+  color: var(--footer-color);
+}
+
+.footer-container__box {
+  text-align: center;
+}
+
+.footer-container__box:last-child {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-container__box:last-child i {
+  margin-right: 20px;
+}
+
+.footer-container__box:last-child span {
+  font-weight: 800;
+}

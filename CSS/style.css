@@ -1,0 +1,11 @@
+@import "reset.css";
+@import "main.css";
+@import "variables.css";
+
+/* components */
+@import "components/header.css";
+@import "components/footer.css";
+
+body {
+  font-family: "Nanum Gothic", sans-serif;
+}
