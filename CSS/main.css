@@ -1,11 +1,13 @@
 .main-container {
-  padding: 30px 170px;
   color: white;
+  width: 1178px;
+  margin: auto;
 }
 
 .main-container__title {
   font-size: 50px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .main-container__desc {
@@ -15,7 +17,7 @@
 
 .main-links {
   display: flex;
-  padding: 30px 170px;
+
   justify-content: center;
 }
 
@@ -78,19 +80,18 @@
   z-index: -1;
 }
 
-.main-portfolio {
-  padding: 0 290px;
-  margin-bottom: 130px;
-}
-
 .main-portfolio__title {
-  margin: 0 50px 50px;
+  width: 1178px;
+  margin: auto;
+  margin-bottom: 130px;
 }
 
 .main-portfolio__list {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 1200px;
+  margin: auto;
 }
 
 .main-portfolio__ul {
