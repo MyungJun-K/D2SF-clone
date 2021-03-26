@@ -4,11 +4,6 @@
   position: fixed;
 }
 
-.why-selected a {
-  border-bottom: 2px solid white;
-  padding-bottom: 2px;
-}
-
 .why-container {
   margin: auto;
   padding-top: 130px;

@@ -2,6 +2,9 @@
 @import "main.css";
 @import "variables.css";
 @import "why-d2sf.css";
+@import "portfolio.css";
+@import "apply.css";
+@import "story.css";
 
 /* components */
 @import "components/header.css";
